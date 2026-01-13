@@ -44,23 +44,30 @@ Datasættet består af:
 │   ├── queries.sql
 ├── README.md
 
-## ✅ Analyseplan
+
+### ✅ Analyseplan
 1. **Data Cleaning**: Tjek for manglende værdier, datatyper og konsistens.
-2. **Exploratory Data Analysis (EDA)**:
+2. **Exploratory Data Analysis (EDA)** med Python:
    - Salg pr. kategori
    - Top 10 produkter
    - Leveringstid pr. by
-3. **Visualisering**:
-   - Bar charts, line charts, heatmaps
-4. **Business Insights**:
+3. **Visualisering i Power BI**:
+   - KPI’er (Total Sales, Average Delivery Time)
+   - Interaktive grafer og dashboards
+4. **SQL Queries**:
+   - Total omsætning pr. kategori
+   - Gennemsnitlig leveringstid
+   - Top 10 produkter
+5. **Business Insights**:
    - Identificer trends og anbefalinger
+
+---
 
 ## 📈 Mulige Udvidelser
 - Forecasting af salg med Machine Learning
-- Dashboard i Power BI
+- Dashboard i Power BI med drill-down funktioner
 - Kundesegmentering med clustering
 
----
 
 ### 🚀 Kom i gang
 1. Klon repository:
