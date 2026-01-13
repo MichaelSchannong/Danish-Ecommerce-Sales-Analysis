@@ -38,6 +38,10 @@ Datasættet består af:
 ├── notebooks/
 │   ├── EDA.ipynb
 │   ├── Visualizations.ipynb
+├── powerbi/
+│   ├── Dashboard.pbix
+├── sql/
+│   ├── queries.sql
 ├── README.md
 
 ## ✅ Analyseplan
